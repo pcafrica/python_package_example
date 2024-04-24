@@ -1,11 +1,11 @@
 """
 This is the package documentation for my_package.
 
-Available modules:
+Available modules:\n
 - core: Basic functions like mean.
 
-Package-wide constants:
-- VERSION (str): The current version of the package.
+Package-wide constants:\n
+- VERSION (str): The current version of the package.\n
 - AUTHOR (str): The author of the package.
 """
 
