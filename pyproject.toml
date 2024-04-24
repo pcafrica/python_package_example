@@ -10,7 +10,7 @@ authors = [
 ]
 
 readme = "README.md"
-license = "Unlicense"
+license = {text: "Unlicense"}
 
 version = "0.0.1"
 
