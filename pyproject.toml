@@ -8,8 +8,9 @@ description = "A sample Python project"
 authors = [
     {name = "Pasquale Claudio Africa", email = "pafrica@sissa.it"}
 ]
+
 readme = "README.md"
-license = {text = "The Unlicense"}
+license = "Unlicense"
 
 version = "0.0.1"
 
@@ -18,8 +19,8 @@ requires-python = ">=3.7"
 dependencies = []
 
 [project.optional-dependencies]
-docs = ["sphinx"]
 test = ["pytest"]
+docs = ["sphinx"]
 
 [tool.setuptools.packages.find]
 where = ["my_package"]
