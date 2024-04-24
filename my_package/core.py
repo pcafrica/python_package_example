@@ -6,7 +6,7 @@ are used throughout the package. It is designed to offer quick access to simple
 calculations such as averaging numbers.
 """
 
-def mean(numbers):
+def mean(numbers: list) -> float:
     """
     Calculate the mean (average) of a list of numbers.
 
